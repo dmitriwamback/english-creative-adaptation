@@ -1,4 +1,4 @@
-# sv
+# English Creative Adaptation for the 2025 Winter Semester
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
