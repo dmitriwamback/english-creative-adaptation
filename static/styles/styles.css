@@ -64,6 +64,29 @@ body {
     font-size: 60px;
     font-family: 'Cinzel', sans-serif;
 }
+
+.europe-map {
+    background-image: url('./europe_map.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: calc(100% - 50px);
+    height: calc(100% + 550px);
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.arrival-map {
+    background-image: url('./arrival_map.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: calc(100% - 50px);
+    height: calc(100% + 550px);
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+
 #quote {
     width: 100px;
     height: 70px;
@@ -79,6 +102,7 @@ body {
     display: block;
     font-size: 25px;
     margin: auto;
+    margin-bottom: 20px;
     font-family: 'Cormorant Garamond', sans-serif;
 }
 .highlight {
